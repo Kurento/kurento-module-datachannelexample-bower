@@ -1,0 +1,16 @@
+{
+  "name": "kurento-module-datachannelexample",
+  "keywords": [
+    "Kurento",
+    "module",
+    "plugin"
+  ],
+  "authors": [],
+  "ignore": [
+    "doc/",
+    "lib/",
+    "Gruntfile.js",
+    "package.json"
+  ],
+  "main": "dist/kurento-module-datachannelexample.js"
+}

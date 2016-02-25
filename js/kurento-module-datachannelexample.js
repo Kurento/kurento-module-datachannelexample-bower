@@ -368,7 +368,7 @@ require('.');
  */
 
 Object.defineProperty(exports, 'name',    {value: 'datachannelexample'});
-Object.defineProperty(exports, 'version', {value: '6.3.2-dev'});
+Object.defineProperty(exports, 'version', {value: '6.4.1-dev'});
 
 
 var KmsDetectFaces = require('./KmsDetectFaces');

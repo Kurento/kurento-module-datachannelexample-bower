@@ -48,7 +48,7 @@ inherits(KmsDetectFaces, Filter);
  * @alias module:datachannelexample.KmsDetectFaces.constructorParams
  *
  * @property {module:core.MediaPipeline} mediaPipeline
- *  the parent {@link module:core.MediaPipeline MediaPipeline}
+ *  the parent {@link MediaPipeline}
  */
 KmsDetectFaces.constructorParams = {
   mediaPipeline: {
@@ -134,7 +134,7 @@ inherits(KmsSendData, MediaElement);
  * @alias module:datachannelexample.KmsSendData.constructorParams
  *
  * @property {module:core.MediaPipeline} mediaPipeline
- *  the parent {@link module:core.MediaPipeline MediaPipeline}
+ *  the parent {@link MediaPipeline}
  */
 KmsSendData.constructorParams = {
   mediaPipeline: {
@@ -220,7 +220,7 @@ inherits(KmsShowData, MediaElement);
  * @alias module:datachannelexample.KmsShowData.constructorParams
  *
  * @property {module:core.MediaPipeline} mediaPipeline
- *  the parent {@link module:core.MediaPipeline MediaPipeline}
+ *  the parent {@link MediaPipeline}
  */
 KmsShowData.constructorParams = {
   mediaPipeline: {
@@ -306,7 +306,7 @@ inherits(KmsShowFaces, Filter);
  * @alias module:datachannelexample.KmsShowFaces.constructorParams
  *
  * @property {module:core.MediaPipeline} mediaPipeline
- *  the parent {@link module:core.MediaPipeline MediaPipeline}
+ *  the parent {@link MediaPipeline}
  */
 KmsShowFaces.constructorParams = {
   mediaPipeline: {
